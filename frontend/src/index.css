@@ -4,3 +4,7 @@
   width: 100%;
   transition: width 0.3s ease-in-out;
 }
+
+::-webkit-scrollbar{
+  display: none;
+}
